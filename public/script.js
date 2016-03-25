@@ -1,5 +1,5 @@
 function ctrl($scope){
-  $scope.rows = ['Paul','John','Lucie'];
+  $scope.rows = ['Paul','Jack','Lucie'];
   $scope.temp = false;
   
   $scope.addRow = function(){
